@@ -1,6 +1,6 @@
 # SQL_Tasks – Restaurant Data Analysis (SQLite Version)
 
-This folder contains modular SQL scripts that perform end-to-end data analysis on a restaurant dataset using SQLite. Each script corresponds to a specific task as part of a Data Science internship project.
+This folder contains modular SQL scripts that perform end-to-end data analysis on a restaurant dataset using SQLite.
 
 ---
 
